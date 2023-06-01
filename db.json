@@ -1,0 +1,25 @@
+{
+  "notes": [
+    {
+      "shop": "Test shop",
+      "product": "Test product",
+      "price": "Test price 4.44€",
+      "important": true,
+      "id": 1
+    },
+    {
+      "shop": "Citymarket",
+      "product": "Bread",
+      "price": "2.99€",
+      "important": false,
+      "id": 2
+    },
+    {
+      "shop": "S-market",
+      "product": "Milk",
+      "price": "1.79€",
+      "important": true,
+      "id": 3
+    }
+  ]
+}
